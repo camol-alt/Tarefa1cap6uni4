@@ -20,6 +20,7 @@ Deste modo é constituído este programa realizando alguns processos como Interr
 
 LINK DO VÍDEO EXPLICATIVO:
 Desta forma para simplificar a compreensão produzido um vídeo de  2 minutos, explicando  brevemente as funcionalidades implementadas. E mostrando o  projeto em execução na placa BitDogLab.
-......
+https://drive.google.com/file/d/1ojIbT12JE7ZGsQlQK8ujgMWJFtQhxxmF/view?usp=sharing
+
 PROJETO DESENVOLVIDO POR:
 Camile Vitória Lino dos Santos.
